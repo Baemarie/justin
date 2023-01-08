@@ -6,26 +6,26 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
+global.botname = "anya kawaii" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ꪑꪖᥴꫝ𝓲ꪖꪜꫀꪶ" // sticker watermark packname //
+global.author = "🥵3.69_𝑱𝒖𝒔𝒕𝒊𝒏シ︎" // sticker watermark author //
+actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚:sayonara baka🥲!' // text who displays on the top of welcome and left message //
+global.headerText = "Anya by justin" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
-             global.ownername = "3.69_Pika"   // Owner name //
+             global.ownernumber = ['237655824341']   // Owner number //
+             global.vcardowner = ['237655824341']   // vcard owner number //
+             global.ownername = "3.69_Justin"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
-             global.location = "India, Assam, Dibrugarh"   // Location //
+             global.location = "cameroon, yaounde, bastos"   // Location //
              global.owner = ['918811074852','917355622763','919673141317']
              global.ownertag = '918811074852'  // Tag number //
-             global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['918811074852']  // premium numbers //             
-             global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
+             global.linkz = "https://wa.me/+237655824341"  // Theme url which will be displayed on whatsapp //
+             global.premium = ['237673363756','237655824341']  // premium numbers //             
+             global.waterMark = "×͜× Justin ✘ machiavel™ ✓" // Your own watermark //
 
 global.prefa = ['','-']
 
@@ -39,8 +39,8 @@ footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
 footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
-nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
-nikalmsg2 = 'Patt se headshot 🔫...Abey dil se bura lagta hai bhai 😂.'
+nikalmsg1 = 'va te faire foutre et reviens plus! 😚🖕🏻' 
+nikalmsg2 = 'Le pire est derrière nous à présent 😂.'
 
 //--------Text for document captions--------\\
 global.Menudoccap1 = 'Best friendly Bot for you...'
@@ -63,19 +63,19 @@ tag10 = '𝘈𝘺𝘰𝘰 𝘈𝘯𝘺𝘢 𝘪𝘴 𝘉𝘦𝘴𝘵!!😚'
 
 
 global.mess = {
-    success: 'Work done 𝗗𝗮𝗿𝗹𝗶𝗻𝗴❤️',
-    admin: "Baby!\nThis command is only for 𝗔𝗱𝗺𝗶𝗻𝘀...So i can't process your command babe. 😑",
-    botAdmin: 'First make me 𝗔𝗱𝗺𝗶𝗻!!! 😐',
-    owner: 'This command is only for my 𝗼𝘄𝗻𝗲𝗿..',
+    success: 'Travail effectué  𝗗𝗮𝗿𝗹𝗶𝗻𝗴❤️',
+    admin: "Impossible bro, seulement les admins en sont capables. 😑",
+    botAdmin: 'Déjà met moi 𝗔𝗱𝗺𝗶𝗻!!! 😐',
+    owner: 'Ceci est réservé(e) à justin mon 𝗼𝘄𝗻𝗲𝗿..',
     group: "Baka !!!!!\nYou can't use this command in a 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁 !😑",
     private: 'Such a baka !!\nThis command is only for 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀. 🥲',
     bot: "This Feature Is Only For 𝗕𝗼𝘁... and you're not a 𝗕𝗼𝘁.",
     wait: "I'm progressing your command baby❤️, Please wait......",
     linkm: 'Abey where is the link...?',
-    error: 'I got an 𝗲𝗿𝗿𝗼𝗿!!',
+    error: 'ERR4R DETECTED!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the 𝗼𝘄𝗻𝗲𝗿 😡, if you want to be 𝘂𝗻𝗯𝗮𝗻𝗻𝗲𝗱, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, Bc padhai likhai karo 𝗜𝗔𝗦 - 𝗬𝗔𝗦 bano lekin nhii tumhe to nudity dekhni hai 👏',
+    nsfw: 'Tu veux la seinte culture hein? petit coquin 👏',
     banChat: 'The bot was banned 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗴𝗿𝗼𝘂𝗽!, please contact the owner to unban.'
 }
 
